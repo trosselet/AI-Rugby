@@ -1,0 +1,37 @@
+{
+    "projects": {
+      "Rugby": {
+        "additionalDependencies": [
+          "ws2_32.lib",
+          "winmm.lib",
+          "gdi32.lib",
+          "opengl32.lib",
+          "freetype.lib",
+          "sfml-graphics-s-d.lib",
+          "sfml-window-s-d.lib",
+          "sfml-system-s-d.lib",
+          "%(AdditionalDependencies)"
+        ],
+        "additionalIncludeDirectories": [
+          "$(SolutionDir)..\\SFML\\include"
+        ],
+        "additionalLibraryDirectories": [
+          "$(SolutionDir)..\\SFML\\lib"
+        ],
+        "dependencies": [],
+        "dependents": [],
+        "guid": "57472AF5-5038-17FD-10B3-126F75D44D4C",
+        "lib": false,
+        "pch": true,
+        "preprocessorDefinitions": [
+          "SFML_STATIC"
+        ],
+        "vcpkg": false,
+        "window": false
+      }
+    },
+    "solution_guid": "2B4B7733-3021-51D5-5FEF-11F20525754B",
+    "solution_name": "Rugby",
+    "startup_project": "Rugby",
+    "version": "1.17.4"
+}
