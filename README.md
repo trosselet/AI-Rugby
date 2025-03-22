@@ -7,3 +7,5 @@
  - Go in the bin file, launch make -open.bat and launch the solution named Rugby.sln
  - Click on debug and good game !
  - You can press D to open the debug tab and can force or show some information of the players
+
+![Capture d'écran 2025-03-19 224424](https://github.com/user-attachments/assets/2303f33c-3c32-4551-b0f6-994b9e689c4e)
